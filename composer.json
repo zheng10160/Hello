@@ -1,0 +1,11 @@
+{
+    "name": "pres/dd",
+    "description": "test ok",
+    "authors": [
+        {
+            "name": "zheng10160",
+            "email": "13952354147@163.com"
+        }
+    ],
+    "require": {}
+}
